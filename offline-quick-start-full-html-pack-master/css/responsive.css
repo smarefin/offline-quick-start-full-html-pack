@@ -1,0 +1,22 @@
+
+/* Medium computer screen Layout: 992px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+ 
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
+
+/* small Mobile Layout: 0px. */
+@media only screen and (min-width: 0px) and (max-width: 479px) { 
+
+}
